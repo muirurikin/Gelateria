@@ -1,0 +1,33 @@
+/*
+====================================
+
+====================================
+*/
+.back {
+    max-height: 100%;
+    background: url(../images/homepage-illustration-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.back-1 {
+    max-height: 100%;
+    background-color: #3F1D0B;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.back-2 {
+    max-height: 100%;
+    background: url(../images/homepage-illustration-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.back-3 {
+    max-height: 100%;
+    background-color: #3F1D0B;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
